@@ -1,0 +1,8 @@
+/data/archive
+
+/data/raw/*.csv
+
+/data/processed/1.0_joined_dataset.csv
+/data/processed/2.0_cleaned_dataset.csv
+
+/data/processed/1.0_joined_dataset
